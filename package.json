@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "console-clear": "^1.0.0",
-    "kleur": "^3.0.0",
+    "kleur": "^4.0.1",
     "webpack-format-messages": "^2.0.0"
   }
 }
